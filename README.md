@@ -8,6 +8,7 @@ You can also check out my Second Brain of Product Thinking where I keep a collec
 
 ### Categories
 **1.** [Reasons to hire me - I take initiative](#1.Reasonstohireme-Itakeinitiative)
+**2.** [Reasons to hire me - #2 Strategic Discovery](#Reasonstohireme-#2StrategicDiscovery)
 
 ## 1. Reasons to hire me - I take initiative
 
@@ -21,7 +22,7 @@ I believe by taking initiative, you go down a path of change. And in any company
 
 We can look back and prefer things the old way (even if they are legitimate reasons) or we keep moving forward to a successful Product Launch.
 
-## Reasons to hire me - #2: Strategic Discovery
+## Reasons to hire me - #2 Strategic Discovery
 
 User discovery and customer research tends to be pretty biased. 
 
