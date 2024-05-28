@@ -1,5 +1,22 @@
 # Reasons-To-Hire-Me
 
+On LinkedIn, I began a **Reasons To Hire Me** series on what value I could bring to an organization with its product teams. Figured the best way to store all those reasons within a one-stop shop would be here on GitHub. 
+
+You can also check out my Second Brain of Product Thinking where I keep a collection of my daily learnings.
+
+---
+
+### Categories
+* [Reasons to hire me - #1: I take initiative](#Reasonstohireme-#1:Itakeinitiative)
+*
+*
+*
+*
+*
+*
+*
+*
+
 ## Reasons to hire me - #1: I take initiative
 
 Before I go into the details I was recently inspired by Felipe Vogel’s article on his job search journey.
