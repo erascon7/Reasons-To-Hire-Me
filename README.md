@@ -13,9 +13,9 @@ You can also check out my Second Brain of Product Thinking where I keep a collec
 4. [Reasons to hire me - Product Planning Tools](#4.Reasonstohireme-ProductPlanningTools)
 5. [Reasons to hire me - Prioritization](#5.Reasonstohireme-Prioritization)
 6. [Reasons to hire me - Collaboration](#6.Reasonstohireme-Collaboration)
-7. [Reasons to hire me - SQL](#7.Reasonstohireme-SQL)
+7. [Reasons to hire me - SQL](#7-reasons-to-hire-me---SQL)
 8. [Reasons to hire me - Continuous Learning](#8-reasons-to-hire-me---continuous-learning)
-9. [Reasons to hire me - Product Development](#Reasons-to-hire-me-Product-Development)
+9. [Reasons to hire me - Product Development](#9-reasons-to-hire-me---product-development)
 
 ---
 
