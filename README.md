@@ -52,9 +52,27 @@ Where as Jira has a complex versatility to it in that you can even use it for pr
 
 - Jira was mainly designed to support an Agile project management environment along with a more customizable workflow.
 
-I recommend both - the perfect tool depends on what your PM methodology is.  
+I recommend both - the perfect tool depends on what your PM methodology is.
 
-## Reasons to hire me - #5: Collaboration 
+## Reasons to hire me - #5: Prioritization 
+
+Knowing how to prioritize a product roadmap is key to a successful launch. Personally, I use the [Action Priority Framework](https://www.productplan.com/glossary/action-priority-matrix/) for prioritization.
+
+1. Quick wins (high impact, low effort)
+2. Major projects (high impact, high effort)
+3. Fill-ins (low impact, low effort)
+4. Thankless tasks (low impact, high effort
+
+High impact/low effort should always go first to finish feature requirements immediately. Whereas the high impact/high effort become major milestones of future launches.
+
+Low impact/low effort is a value that can always be revisited at another time. Low impact/high effort should immediately be deprioritized. Perhaps a new product discovery should come out of it.
+
+Using this model is essential to recognize where the focus should be.
+
+![image](https://github.com/erascon7/Reasons-To-Hire-Me/assets/39039416/894e4522-87f1-4342-99df-23e4728b3614)
+
+
+## Reasons to hire me - #6: Collaboration 
 
 In product development, collaboration isn't just part of the job. It's the heartbeat of innovation. In tech, effective collaboration relies on syncing diverse teams. It also depends on aligning them with one vision. Creating a place where ideas can be shared is the goal. Diverse views are valued. This leads to more creative and strong products.
 
@@ -64,7 +82,7 @@ Moreover, empathy plays a critical role. Understanding the challenges and workfl
 
 As a Product Manager, fostering teamwork means being a conductor. You guide each section of the orchestra to play in harmony. You drive the team towards excellence. And, you make sure the final product fits its intended audience.
 
-## Reasons to hire me - #6: SQL 
+## Reasons to hire me - #7: SQL 
 
 Making data-informed decisions has helped me out as a PM on the next steps. Real-world examples such as.
 
@@ -80,7 +98,7 @@ Even used for troubleshooting and quality assurance.
 
 All of this has helped me understand the backend systems of a product more. Thus allowing me to have actual evidence of what's working and not working when conversing with devs. Bringing it back to a reprioritization of what needs to be focused on. 
 
-## Reasons to hire me - #7: Continuous Learning 
+## Reasons to hire me - #8: Continuous Learning 
 
 Learning doesn’t end when you’ve finished your bachelor's, master's, or doctorate. It’s an evergrowing tree that we must water every day to allow for growth.
 
@@ -90,7 +108,7 @@ I like to take courses (certified or uncertified), subscribe to newsletters, lis
 
 The above means nothing if you’re not taking notes on your learnings just like you would in school. We like to be optimistic bias and say we'll remember it in our head... we won't. Before we can implement these new ideas they must be written down first. This led to my “Today I Learned” series, you never know when your personal learning can be helpful to the public.
 
-## Reasons to hire me - #8: Product Development 
+## Reasons to hire me - #9: Product Development 
 
 The thing about me is that I’ll always be one to admit what I don’t know. Be it a specific product or industry and that’s fine because I don’t need to be an expert on that right away.
 
