@@ -15,7 +15,7 @@ You can also check out my Second Brain of Product Thinking where I keep a collec
 6. [Reasons to hire me - Collaboration](#6.Reasonstohireme-Collaboration)
 7. [Reasons to hire me - SQL](#7.Reasonstohireme-SQL)
 8. [Reasons to hire me - Continuous Learning](#8.Reasonstohireme-ContinuousLearning)
-9. [Reasons to hire me - Product Development](#9.Reasons-to-hire-me-Product-Development)
+9. [Reasons to hire me - Product Development](#Reasons-to-hire-me-Product-Development)
 
 ---
 
@@ -133,7 +133,7 @@ I like to take courses (certified or uncertified), subscribe to newsletters, lis
 
 The above means nothing if you’re not taking notes on your learnings just like you would in school. We like to be optimistic bias and say we'll remember it in our head... we won't. Before we can implement these new ideas they must be written down first. This led to my “Today I Learned” series, you never know when your personal learning can be helpful to the public.
 
-## 9. Reasons to hire me - Product Development 
+## Reasons to hire me - Product Development 
 
 The thing about me is that I’ll always be one to admit what I don’t know. Be it a specific product or industry and that’s fine because I don’t need to be an expert on that right away.
 
