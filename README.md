@@ -46,7 +46,7 @@ I have to say my top favorite two are ClickUp and Jira. I'm open to whichever to
 
 What I like about ClickUp is how user-friendly it is, which allows the least tech savy person to use it, create tasks, and even update their task status. 
 
-Where as Jira has a complex versatility to it in that you can even use it for product discovery. Along with creating a beautiful timeline that displays the epics, stories, tasks and subtask for it's tracking progress.
+Where as Jira has a complex versatility to it in that you can even use it for product discovery. Along with creating a beautiful timeline that displays the epics, stories, tasks, and subtasks for it's tracking progress.
 
 - ClickUp is more suitable for stakeholders who would prefer a more friendly UX and work on a prioritization framework of effort and value (RICE).
 
