@@ -7,7 +7,7 @@ You can also check out my Second Brain of Product Thinking where I keep a collec
 ---
 
 ### Categories
-* [Reasons to hire me - #1: I take initiative](#Reasonstohireme-1:Itakeinitiative)
+* [Reasons to hire me - #1: I take initiative](#Reasonstohireme-#1:Itakeinitiative)
 *
 *
 *
@@ -17,7 +17,7 @@ You can also check out my Second Brain of Product Thinking where I keep a collec
 *
 *
 
-### Reasons to hire me - #1: I take initiative
+## Reasons to hire me - #1: I take initiative
 
 Before I go into the details I was recently inspired by Felipe Vogel’s article on his job search journey.
 
