@@ -36,7 +36,9 @@ Product roadmapping is essential to understand what product/features will be wor
 
 3. The shareholders, investors, and board of directors. This group tends to think about the future of the company, with good reason, more than any other audience type. They only need to see a high level to know in what direction the business and product are heading towards. From something as simple as quarterly milestones to even a five-year plan.
 
-Honestly - there are plenty of groups that can benefit from product roadmaps but that’s a piece that could be a whole article. Roadmunk has a great series of chapters diving into those groups/details. 
+Honestly - there are plenty of groups that can benefit from product roadmaps but that’s a piece that could be a whole article. [Roadmunk](https://roadmunk.com/guides/what-is-a-product-roadmap/) has a great series of chapters diving into those groups/details. 
+
+![image](https://github.com/erascon7/Reasons-To-Hire-Me/assets/39039416/66dcefc0-e94f-4ed1-a376-acb88278ef49)
 
 ## Reasons to hire me - #4: Product Planning Tools
 
