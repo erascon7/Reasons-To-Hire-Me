@@ -26,7 +26,7 @@ For example, if you sent over 10 problems, ask them which problem should be #1 (
 
 Shreyas Doshi was the originator of this framework and I can honestly say once I adopted this into Product Discovery over the last couple of years it became a huge game changer.
 
-Reasons to hire me - #3: Product Roadmapping
+## Reasons to hire me - #3: Product Roadmapping
 
 Product roadmapping is essential to understand what product/features will be worked on and when they will be released. Three different audiences can benefit from product roadmapping.  
 
