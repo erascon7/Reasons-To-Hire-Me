@@ -7,7 +7,7 @@ You can also check out my Second Brain of Product Thinking where I keep a collec
 ---
 
 ### Categories
-1. [Reasons to hire me - I take initiative](#1.Reasonstohireme-Itakeinitiative)
+1. [Reasons to hire me - I take initiative](#1-reasons-to-hire-me---i-take-initiative)
 2. [Reasons to hire me - Strategic Discovery](#2.Reasonstohireme-StrategicDiscovery)
 3. [Reasons to hire me - Product Roadmapping](#3.Reasonstohireme-ProductRoadmapping)
 4. [Reasons to hire me - Product Planning Tools](#4.Reasonstohireme-ProductPlanningTools)
