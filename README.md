@@ -8,14 +8,6 @@ You can also check out my Second Brain of Product Thinking where I keep a collec
 
 ### Categories
 [1. Reasons to hire me - I take initiative](#1.Reasonstohireme-Itakeinitiative)
-*
-*
-*
-*
-*
-*
-*
-*
 
 ## 1. Reasons to hire me - I take initiative
 
