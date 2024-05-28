@@ -1,4 +1,4 @@
-# Reasons-To-Hire-Me
+# Reasons To Hire Me
 
 On LinkedIn, I began a **Reasons To Hire Me** series on what value I could bring to an organization with its product teams. Figured the best way to store all those reasons within a one-stop shop would be here on GitHub. 
 
