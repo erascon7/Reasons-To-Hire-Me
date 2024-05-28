@@ -54,3 +54,63 @@ Where as Jira has a complex versatility to it in that you can even use it for pr
 
 I recommend both - the perfect tool depends on what your PM methodology is.  
 
+## Reasons to hire me - #5: Collaboration 
+
+In product development, collaboration isn't just part of the job. It's the heartbeat of innovation. In tech, effective collaboration relies on syncing diverse teams. It also depends on aligning them with one vision. Creating a place where ideas can be shared is the goal. Diverse views are valued. This leads to more creative and strong products.
+
+For successful collaboration, communication is key. Clear, consistent, and open communication ensures everyone is on the same page. This includes developers, designers, and more. Tools like Jira or ClickUp can enhance this process. They provide platforms where tasks are transparent and progress is trackable in real time.
+
+Moreover, empathy plays a critical role. Understanding the challenges and workflows of different team members can create a friendlier atmosphere. It's about respecting each role's contributions. It's about ensuring that every voice is heard. This speeds up development. It also builds a team culture. The culture is based on mutual respect and shared goals.
+
+As a Product Manager, fostering teamwork means being a conductor. You guide each section of the orchestra to play in harmony. You drive the team towards excellence. And, you make sure the final product fits its intended audience.
+
+## Reasons to hire me - #6: SQL 
+
+Making data-informed decisions has helped me out as a PM on the next steps. Real-world examples such as.
+
+Generating an impact list.
+
+Pulling data on what features worked out with certain groups of users.
+
+Understanding human behavior with a product without having to rely on qualitative feedback. 
+
+Producing almost instant product/business metrics and visualizing those data points via Tableau or Excel.
+
+Even used for troubleshooting and quality assurance. 
+
+All of this has helped me understand the backend systems of a product more. Thus allowing me to have actual evidence of what's working and not working when conversing with devs. Bringing it back to a reprioritization of what needs to be focused on. 
+
+## Reasons to hire me - #7: Continuous Learning 
+
+Learning doesn’t end when you’ve finished your bachelor's, master's, or doctorate. It’s an evergrowing tree that we must water every day to allow for growth.
+
+It’s easy to get stagnant and believe once we’ve reached a certain point in our life that we’ve learned all the skills we need to know. And while that’s true to a fault, we do put years of education to arrive at a certain point in our lives. We start to fall back when we’ve given up on continuous learning. Which then causes the skills we’ve acquired to go obsolete and out of touch eventually. Learning and education shouldn’t be that way.
+
+I like to take courses (certified or uncertified), subscribe to newsletters, listen to podcasts, and sign up for programs.
+
+The above means nothing if you’re not taking notes on your learnings just like you would in school. We like to be optimistic bias and say we'll remember it in our head... we won't. Before we can implement these new ideas they must be written down first. This led to my “Today I Learned” series, you never know when your personal learning can be helpful to the public.
+
+## Reasons to hire me - #8: Product Development 
+
+The thing about me is that I’ll always be one to admit what I don’t know. Be it a specific product or industry and that’s fine because I don’t need to be an expert on that right away.
+
+What I do consider myself to be an expert right from the get-go is the development process, all the other learnings come after that. And the process I follow and implement is what follows
+
+1. The Why? - what’s the main question of why this product is being built?
+2. Gather Inspiration - identifying competitors and addressing what they’re doing.
+3. Brainstorming - sticky note with ideas on a board time.
+4. Creating the MVP - work with the devs and designers to ideate a robust product.
+5. Testing - having an invite-only group to test and learn your product.
+6. Shipping - with the product launch also comes the GTM strategies that need to take place to allow you to tell your story. 
+
+The above of course is a very minuscule way of a deeper method. A variation of [IDEOs design thinking process](https://www.ideou.com/blogs/inspiration/design-thinking-process#:~:text=With%20design%20thinking%2C%20the%20six,adapted%20for%20each%20specific%20challenge.).
+
+One of my favorite things about being in the product is the development process. It's about being in a room with like-minded people from different products focused on creating something that's just an idea to a fully-fledged product.
+
+I do have to say, in this remote world, that is probably the one thing that cannot be replicated as via Zoom, Miro. The actual brainstorming collaboration just cannot be replaced. Exploring what other similar products are there, identifying what our users need from interacting with this product, and what can we do to enhance that user experience vs the competition.
+
+I'm a big advocate that in the beginning there are no bad ideas. In fact, they can be really far-fetched. Because at the end of the day, the MVP is constantly going to be ideated and changed until we finally have a ship to launch. 
+
+Innovation execution is key in a product development process. 
+
+![image](https://github.com/erascon7/Reasons-To-Hire-Me/assets/39039416/82e500fa-138f-4544-ba36-a24305c1bfa9)
