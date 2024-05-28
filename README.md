@@ -7,7 +7,7 @@ You can also check out my Second Brain of Product Thinking where I keep a collec
 ---
 
 ### Categories
-* [Reasons to hire me - #1: I take initiative](#Reasonstohireme-1:Itakeinitiative)
+* [Reasons to hire me - #1: I take initiative](https://github.com/erascon7/TIL/edit/main/README.md)
 *
 *
 *
