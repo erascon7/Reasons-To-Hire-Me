@@ -7,9 +7,15 @@ You can also check out my Second Brain of Product Thinking where I keep a collec
 ---
 
 ### Categories
-**1.** [Reasons to hire me - I take initiative](#1.Reasonstohireme-Itakeinitiative)
-
-**2.** [Reasons to hire me - Strategic Discovery](#Reasonstohireme-#2StrategicDiscovery)
+1. [Reasons to hire me - I take initiative](#1.Reasonstohireme-Itakeinitiative)
+2. [Reasons to hire me - Strategic Discovery](#2.Reasonstohireme-StrategicDiscovery)
+3. [Reasons to hire me - Product Roadmapping](#3.Reasonstohireme-ProductRoadmapping)
+4. [Reasons to hire me - Product Planning Tools](#4.Reasonstohireme-ProductPlanningTools)
+5. [Reasons to hire me - Prioritization](#5.Reasonstohireme-Prioritization)
+6. [Reasons to hire me - Collaboration](#6.Reasonstohireme-Collaboration)
+7. [Reasons to hire me - SQL](#7.Reasonstohireme-SQL)
+8. [Reasons to hire me - Continuous Learning](#8.Reasonstohireme-ContinuousLearning)
+9. [Reasons to hire me - Product Development](#9.Reasonstohireme-ProductDevelopment)
 
 ---
 
@@ -25,7 +31,7 @@ I believe by taking initiative, you go down a path of change. And in any company
 
 We can look back and prefer things the old way (even if they are legitimate reasons) or we keep moving forward to a successful Product Launch.
 
-## 2. Reasons to hire me Strategic Discovery
+## 2. Reasons to hire me - Strategic Discovery
 
 User discovery and customer research tends to be pretty biased. 
 
@@ -41,8 +47,7 @@ Shreyas Doshi was the originator of this framework and I can honestly say once I
 
 ![image](https://github.com/erascon7/Reasons-To-Hire-Me/assets/39039416/33299909-25e5-4076-90af-176b07c090ef)
 
-
-## Reasons to hire me - #3: Product Roadmapping
+## 3. Reasons to hire me - Product Roadmapping
 
 Product roadmapping is essential to understand what product/features will be worked on and when they will be released. Three different audiences can benefit from product roadmapping.  
 
@@ -56,7 +61,7 @@ Honestly - there are plenty of groups that can benefit from product roadmaps but
 
 ![image](https://github.com/erascon7/Reasons-To-Hire-Me/assets/39039416/66dcefc0-e94f-4ed1-a376-acb88278ef49)
 
-## Reasons to hire me - #4: Product Planning Tools
+## 4. Reasons to hire me - Product Planning Tools
 
 I've used different product planning tools such as ClickUp, Trello, Jira, Asana, Monday, and even Google Sheets. 
 
@@ -74,7 +79,7 @@ I recommend both - the perfect tool depends on what your PM methodology is.
 
 ![Screenshot 2024-05-28 at 2 12 12 PM](https://github.com/erascon7/Reasons-To-Hire-Me/assets/39039416/09198c7e-8512-4be0-a701-42e3f797d0cf)
 
-## Reasons to hire me - #5: Prioritization 
+## 5. Reasons to hire me - Prioritization 
 
 Knowing how to prioritize a product roadmap is key to a successful launch. Personally, I use the [Action Priority Framework](https://www.productplan.com/glossary/action-priority-matrix/) for prioritization.
 
@@ -92,7 +97,7 @@ Using this model is essential to recognize where the focus should be.
 ![image](https://github.com/erascon7/Reasons-To-Hire-Me/assets/39039416/894e4522-87f1-4342-99df-23e4728b3614)
 
 
-## Reasons to hire me - #6: Collaboration 
+## 6. Reasons to hire me - Collaboration 
 
 In product development, collaboration isn't just part of the job. It's the heartbeat of innovation. In tech, effective collaboration relies on syncing diverse teams. It also depends on aligning them with one vision. Creating a place where ideas can be shared is the goal. Diverse views are valued. This leads to more creative and strong products.
 
@@ -102,7 +107,7 @@ Moreover, empathy plays a critical role. Understanding the challenges and workfl
 
 As a Product Manager, fostering teamwork means being a conductor. You guide each section of the orchestra to play in harmony. You drive the team towards excellence. And, you make sure the final product fits its intended audience.
 
-## Reasons to hire me - #7: SQL 
+## 7. Reasons to hire me - SQL 
 
 Making data-informed decisions has helped me out as a PM on the next steps. Real-world examples such as.
 
@@ -118,7 +123,7 @@ Even used for troubleshooting and quality assurance.
 
 All of this has helped me understand the backend systems of a product more. Thus allowing me to have actual evidence of what's working and not working when conversing with devs. Bringing it back to a reprioritization of what needs to be focused on. 
 
-## Reasons to hire me - #8: Continuous Learning 
+## 8. Reasons to hire me - Continuous Learning 
 
 Learning doesn’t end when you’ve finished your bachelor's, master's, or doctorate. It’s an evergrowing tree that we must water every day to allow for growth.
 
@@ -128,7 +133,7 @@ I like to take courses (certified or uncertified), subscribe to newsletters, lis
 
 The above means nothing if you’re not taking notes on your learnings just like you would in school. We like to be optimistic bias and say we'll remember it in our head... we won't. Before we can implement these new ideas they must be written down first. This led to my “Today I Learned” series, you never know when your personal learning can be helpful to the public.
 
-## Reasons to hire me - #9: Product Development 
+## 9. Reasons to hire me - Product Development 
 
 The thing about me is that I’ll always be one to admit what I don’t know. Be it a specific product or industry and that’s fine because I don’t need to be an expert on that right away.
 
