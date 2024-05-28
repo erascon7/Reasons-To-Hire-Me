@@ -37,3 +37,20 @@ Product roadmapping is essential to understand what product/features will be wor
 3. The shareholders, investors, and board of directors. This group tends to think about the future of the company, with good reason, more than any other audience type. They only need to see a high level to know in what direction the business and product are heading towards. From something as simple as quarterly milestones to even a five-year plan.
 
 Honestly - there are plenty of groups that can benefit from product roadmaps but that’s a piece that could be a whole article. Roadmunk has a great series of chapters diving into those groups/details. 
+
+## Reasons to hire me - #4: Product Planning Tools
+
+I've used different product planning tools such as ClickUp, Trello, Jira, Asana, Monday, and even Google Sheets. 
+
+I have to say my top favorite two are ClickUp and Jira. I'm open to whichever tool. 
+
+What I like about ClickUp is how user-friendly it is, which allows the least tech savy person to use it, create tasks, and even update their task status. 
+
+Where as Jira has a complex versatility to it in that you can even use it for product discovery. Along with creating a beautiful timeline that displays the epics, stories, tasks and subtask for it's tracking progress.
+
+- ClickUp is more suitable for stakeholders who would prefer a more friendly UX and work on a prioritization framework of effort and value (RICE).
+
+- Jira was mainly designed to support an Agile project management environment along with a more customizable workflow.
+
+I recommend both - the perfect tool depends on what your PM methodology is.  
+
