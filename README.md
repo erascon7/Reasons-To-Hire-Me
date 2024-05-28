@@ -15,7 +15,7 @@ You can also check out my Second Brain of Product Thinking where I keep a collec
 6. [Reasons to hire me - Collaboration](#6.Reasonstohireme-Collaboration)
 7. [Reasons to hire me - SQL](#7.Reasonstohireme-SQL)
 8. [Reasons to hire me - Continuous Learning](#8.Reasonstohireme-ContinuousLearning)
-9. [Reasons to hire me - Product Development](#9.-Reasons-to-hire-me-Product-Development)
+9. [Reasons to hire me - Product Development](#9.Reasons-to-hire-me-Product-Development)
 
 ---
 
