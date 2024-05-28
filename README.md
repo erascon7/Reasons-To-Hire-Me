@@ -54,6 +54,8 @@ Where as Jira has a complex versatility to it in that you can even use it for pr
 
 I recommend both - the perfect tool depends on what your PM methodology is.
 
+![Screenshot 2024-05-28 at 2 12 12 PM](https://github.com/erascon7/Reasons-To-Hire-Me/assets/39039416/09198c7e-8512-4be0-a701-42e3f797d0cf)
+
 ## Reasons to hire me - #5: Prioritization 
 
 Knowing how to prioritize a product roadmap is key to a successful launch. Personally, I use the [Action Priority Framework](https://www.productplan.com/glossary/action-priority-matrix/) for prioritization.
