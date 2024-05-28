@@ -8,11 +8,11 @@ You can also check out my Second Brain of Product Thinking where I keep a collec
 
 ### Categories
 1. [Reasons to hire me - I take initiative](#1-reasons-to-hire-me---i-take-initiative)
-2. [Reasons to hire me - Strategic Discovery](#2.Reasonstohireme-StrategicDiscovery)
-3. [Reasons to hire me - Product Roadmapping](#3.Reasonstohireme-ProductRoadmapping)
-4. [Reasons to hire me - Product Planning Tools](#4.Reasonstohireme-ProductPlanningTools)
-5. [Reasons to hire me - Prioritization](#5.Reasonstohireme-Prioritization)
-6. [Reasons to hire me - Collaboration](#6.Reasonstohireme-Collaboration)
+2. [Reasons to hire me - Strategic Discovery](#2-reasons-to-hire-me---strategic-discovery)
+3. [Reasons to hire me - Product Roadmapping](#3-reasons-to-hire-me---product-roadmapping)
+4. [Reasons to hire me - Product Planning Tools](#4-reasons-to-hire-me---product-planning-tools)
+5. [Reasons to hire me - Prioritization](#5-reasons-to-hire-me---prioritization)
+6. [Reasons to hire me - Collaboration](#6-reasons-to-hire-me---collaboration)
 7. [Reasons to hire me - SQL](#7-reasons-to-hire-me---SQL)
 8. [Reasons to hire me - Continuous Learning](#8-reasons-to-hire-me---continuous-learning)
 9. [Reasons to hire me - Product Development](#9-reasons-to-hire-me---product-development)
