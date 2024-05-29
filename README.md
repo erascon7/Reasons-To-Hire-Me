@@ -161,7 +161,7 @@ Innovation execution is key in a product development process.
 
 ## 10. Reasons to hire me - User Interviews
 
-Back when I was in college booking appointments to conduct research interviews for my thesis project. I realized... I have no clue how to conduct these types of interviews at all sure. I was directed to this video by my professor at the time which presented a good structure to follow in conducting research interviews. One that I didn't know I would use to this day as part of my job.
+Back when I was in college booking appointments to conduct research interviews for my thesis project. I realized... I have no clue how to conduct these types of interviews at all sure. I was directed to this [video](https://www.youtube.com/watch?v=9t-_hYjAKww&t=227s) by my professor at the time which presented a good structure to follow in conducting research interviews. One that I didn't know I would use to this day as part of my job.
 
 1. Knowledgeable: Coming in as an interviewer prepared and familiar with the topic.
 2. Structured Approach: Starting off the interview with a clear explanation of its purpose and end it by allowing the interviewee to ask questions or add comments.
