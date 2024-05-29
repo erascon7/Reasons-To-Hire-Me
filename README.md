@@ -16,6 +16,7 @@ You can also check out my [Second Brain of Product Thinking](https://github.com/
 7. [Reasons to hire me - SQL](#7-reasons-to-hire-me---SQL)
 8. [Reasons to hire me - Continuous Learning](#8-reasons-to-hire-me---continuous-learning)
 9. [Reasons to hire me - Product Development](#9-reasons-to-hire-me---product-development)
+10. [Reasons to hire me - User Interviews](#10-reasons-to-hire-me---user-interviews)
 
 ---
 
@@ -157,3 +158,22 @@ I'm a big advocate that in the beginning there are no bad ideas. In fact, they c
 Innovation execution is key in a product development process. 
 
 ![image](https://github.com/erascon7/Reasons-To-Hire-Me/assets/39039416/82e500fa-138f-4544-ba36-a24305c1bfa9)
+
+## 10. Reasons to hire me - User Interviews
+
+Back when I was in college booking appointments to conduct research interviews for my thesis project. I realized... I have no clue how to conduct these types of interviews at all sure. I was directed to this video by my professor at the time which presented a good structure to follow in conducting research interviews. One that I didn't know I would use to this day as part of my job.
+
+1. Knowledgeable: Coming in as an interviewer prepared and familiar with the topic.
+2. Structured Approach: Starting off the interview with a clear explanation of its purpose and end it by allowing the interviewee to ask questions or add comments.
+3. Clarity in Questions: Questions should be simple, short, and to the point - no jargon needed
+4. Gentle Manner: I allow interviewees to complete their thoughts without rushing or interrupting, and the interviewer should tolerate pauses.
+5. Sensitive and Empathetic: I listen attentively and empathizing with the interviewee is crucial.
+6. Open and Flexible: Respond to the interviewee’s concerns and adjusts to the questions that are being asked by them in regards to the interview.
+7. Steering the Conversation: Organize the questions effectively to gather the necessary information.
+8. Critical Perspective: Be prepared to challenge inconsistencies or ambiguities in the interviewee's responses.
+9. Memory Utilization: As the interviewer, I need to recall previously mentioned details to connect them with current responses and avoid redundancy.
+10. Interpretation Skills: Clarify and extend the meanings of the interviewee's statements, sometimes summarizing them to ensure understanding.
+
+![Screenshot 2024-05-28 at 7 57 10 PM](https://github.com/erascon7/Reasons-To-Hire-Me/assets/39039416/f2f315b6-4fa6-4bd3-8ca9-a1cff9101427)
+
+It's important that I manage the flow of the conversation without dominating it. Along with ensuring that the interviewee understands the research's purpose and assure them confidentiality.
