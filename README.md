@@ -188,8 +188,8 @@ My approach focuses on identifying competitors by understanding the market, cust
 
 Once I've done that I try to sign-up for a competitor's product if possible. From there I record my interaction with the product all the way from the landing page, choosing a free trial, registering, onboarding, and finally testing out the product. This process usually takes anywhere from 30 minutes to an hour, sometimes more. This experience allows me to understand the market and consumer behavior by seeing behind the scenes of what our competitors are perhaps doing better than us or possibly there's a gap they're not leveraging that allows us to get ahead of them. I record my experience because I know I won't be able to capture everything in my notes and it allows others from the product team to see my experience and how I as a **USER** interacted/behaved with the product.
 
-The best way to discover who your competitors are besides searching on Google is searching on LinkedIn. Just pretend like you're searching for a job LinkedIn such as "Product Manager" filter by industry in the past week and just like that you'll discover existing and emerging competitors.
+The best way to discover who your competitors are besides searching on Google, is searching on LinkedIn. Just pretend like you're searching for a job LinkedIn such as "Product Manager" filter by your "industry" in the past week and just like that you'll discover existing and emerging competitors.
 
-Besides doing the above I analyze their pricing plan, customer reviews, social media presence, and customer journey for the future if they have it online (sometimes they do).
+Aside from doing the above I analyze their pricing plan, customer reviews, social media presence, and customer journey for the future if they have it online (sometimes they do).
 
 ![image](https://github.com/erascon7/Reasons-To-Hire-Me/assets/39039416/a8b40edb-b793-4d95-8539-20661405f7a8)
