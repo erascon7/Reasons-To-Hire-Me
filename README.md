@@ -17,6 +17,7 @@ You can also check out my [Second Brain of Product Thinking](https://github.com/
 8. [Reasons to hire me - Continuous Learning](#8-reasons-to-hire-me---continuous-learning)
 9. [Reasons to hire me - Product Development](#9-reasons-to-hire-me---product-development)
 10. [Reasons to hire me - User Interviews](#10-reasons-to-hire-me---user-interviews)
+11. [Reasons to hire me - Market Research](#11-reasons-to-hire-me---market-research)
 
 ---
 
@@ -177,3 +178,18 @@ Back when I was in college booking appointments to conduct research interviews f
 ![Screenshot 2024-05-28 at 7 57 10 PM](https://github.com/erascon7/Reasons-To-Hire-Me/assets/39039416/f2f315b6-4fa6-4bd3-8ca9-a1cff9101427)
 
 It's important that I manage the flow of the conversation without dominating it. Along with ensuring that the interviewee understands the research's purpose and assure them confidentiality.
+
+## 11. Reasons to hire me - Market Research
+
+[Idea Scale](https://ideascale.com/blog/what-is-market-research/) defines Market Research as
+>systematic collection, analysis, and interpretation of data about a specific market, industry, or consumer segment. It involves studying customers, competitors, and market dynamics to identify opportunities, mitigate risks, and make informed business decisions.
+
+My approach focuses on identifying competitors by understanding the market, customer preferences, and leveraging various analytical tools and techniques.
+
+Once I've done that I try to sign-up for a competitor's product if possible. From there I record my interaction with the product all the way from the landing page, choosing a free trial, registering, onboarding, and finally testing out the product. This process usually takes anywhere from 30 minutes to an hour, sometimes more. This experience allows me to understand the market and consumer behavior by seeing behind the scenes of what our competitors are perhaps doing better than us or possibly there's a gap they're not leveraging that allows us to get ahead of them. I record my experience because I know I won't be able to capture everything in my notes and it allows others from the product team to see my experience and how I as a **USER** interacted/behaved with the product.
+
+The best way to discover who your competitors are besides searching on Google is searching on LinkedIn. Just pretend like you're searching for a job LinkedIn such as "Product Manager" filter by industry in the past week and just like that you'll discover existing and emerging competitors.
+
+Besides doing the above I analyze their pricing plan, customer reviews, social media presence, and customer journey for the future if they have it online (sometimes they do).
+
+![image](https://github.com/erascon7/Reasons-To-Hire-Me/assets/39039416/a8b40edb-b793-4d95-8539-20661405f7a8)
