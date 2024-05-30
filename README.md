@@ -197,7 +197,9 @@ Aside from doing the above I analyze their pricing plan, customer reviews, socia
 
 ## 12. Reasons to hire me - Communication
 
-50% of the job in being a product manager is communication. My philosophy and advice that I always give people is to over-communicate. Your manager, teammate, and stakeholder will not be mad at you for communicating too much. That being said - there is a balance and you have to learn specific people's communication style. Over-communication is good but if people aren't digesting the information you're giving, then you're current approach is clearly not working. And at the end of the day what matters the most is for folks to read your message in a clean and concise way.
+50% of the job in being a product manager is communication. 
+
+My philosophy and advice that I always give people is to over-communicate. Your manager, teammate, and stakeholder will not be mad at you for communicating too much. That being said - there is a balance and you have to learn specific people's communication style. Over-communication is good but if people aren't digesting the information you're giving, then you're current approach is clearly not working. And at the end of the day what matters the most is for folks to read your message in a clean and concise way.
 
 Sometimes it does take a while to learn people's methods of communicating. 
 
