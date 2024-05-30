@@ -205,7 +205,7 @@ Sometimes it does take a while to learn people's methods of communicating.
 
 Personally I just transparently ask people who I will be working closely with what their preferred method of communication is. That can sometimes be email, zoom (meets, teams), slack (skype), text, or even a phone call. 
 
-In async communication, I've learned the quantity of information and the way it's presented matters just as much as the preferred method of communicating. Leadership in my experience always seem to prefer a deep dive on a status update for the product development process, with a summary attached before the deep dive. Whereas engineers and designers like clean/concise message. The presentation also matters people can perhaps prefer bullet points, numerical points, or paragraphs.
+In async communication, I've learned the quantity of information and the way it's presented matters just as much as the preferred method of communicating. Leadership in my experience always seem to prefer a deep dive on a status update for the product development process, with a summary attached before the deep dive. Whereas engineers and designers like a clean/concise message. The presentation also matters people can perhaps prefer bullet points, numerical points, or paragraphs.
 
 Even with all this - I still like to keep all relevant stakeholders in some form of a group chat and have a document in there tracking updates daily.
 
