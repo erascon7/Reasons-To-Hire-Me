@@ -18,6 +18,7 @@ You can also check out my [Second Brain of Product Thinking](https://github.com/
 9. [Reasons to hire me - Product Development](#9-reasons-to-hire-me---product-development)
 10. [Reasons to hire me - User Interviews](#10-reasons-to-hire-me---user-interviews)
 11. [Reasons to hire me - Market Research](#11-reasons-to-hire-me---market-research)
+12. [Reasons to hire me - Communication](#12-reasons-to-hire-me---communication)
 
 ---
 
@@ -193,3 +194,21 @@ The best way to discover who your competitors are besides searching on Google, i
 Aside from doing the above I analyze their pricing plan, customer reviews, social media presence, and customer journey for the future if they have it online (sometimes they do).
 
 ![image](https://github.com/erascon7/Reasons-To-Hire-Me/assets/39039416/a8b40edb-b793-4d95-8539-20661405f7a8)
+
+## 12. Reasons to hire me - Communication
+
+50% of the job in being a product manager is communication. My philosophy and advice that I always give people is to over-communicate. Your manager, teammate, and stakeholder will not be mad at you for communicating too much. That being said - there is a balance and you have to learn specific people's communication style. Over-communication is good but if people aren't digesting the information you're giving, then you're current approach is clearly not working. And at the end of the day what matters the most is for folks to read your message in a clean and concise way.
+
+Sometimes it does take a while to learn people's methods of communicating. 
+
+Personally I just transparently ask people who I will be working closely with what their preferred method of communication is. That can sometimes be email, zoom (meets, teams), slack (skype), text, or even a phone call. 
+
+In async communication, I've learned the quantity of information and the way it's presented matters just as much as the preferred method of communicating. Leadership in my experience always seem to prefer a deep dive on a status update for the product development process, with a summary attached before the deep dive. Whereas engineers and designers like clean/concise message. The presentation also matters people can perhaps prefer bullet points, numerical points, or paragraphs.
+
+Even with all this - I still like to keep all relevant stakeholders in some form of a group chat and have a document in there tracking updates daily.
+
+My favorite quote.
+
+>Conway’s Law (coined by famed computer scientist Melvin Conway in 1967) expresses that the way an organization is structured, and how its teams communicate, will impact the way it develops technology and systems.
+
+Couldn't be further from the truth.
