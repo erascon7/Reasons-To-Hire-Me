@@ -19,6 +19,7 @@ You can also check out my [Second Brain of Product Thinking](https://github.com/
 10. [Reasons to hire me - User Interviews](#10-reasons-to-hire-me---user-interviews)
 11. [Reasons to hire me - Market Research](#11-reasons-to-hire-me---market-research)
 12. [Reasons to hire me - Communication](#12-reasons-to-hire-me---communication)
+13. [Reasons to hire me - Empathy](#13-reasons-to-hire-me---empathy)
 
 ---
 
@@ -214,3 +215,13 @@ My favorite quote.
 >Conway’s Law (coined by famed computer scientist Melvin Conway in 1967) expresses that the way an organization is structured, and how its teams communicate, will impact the way it develops technology and systems.
 
 Couldn't be further from the truth.
+
+## 13. Reasons to hire me - Empathy
+
+Empathy is a key strength of my professional approach, enabling me to build strong, meaningful connections with colleagues, clients, and users. Understanding and sharing the feelings of others is not just a personal trait but a strategic advantage in any workplace. By understanding and sharing the feelings of others, I create a space where team members feel valued and heard. This without a doubt leads to higher morale, high morale leads to increased productivity, and a culture of mutual respect.
+
+In user research and customer interactions, empathy allow me to truly understand their needs and pain points. This deep understanding translates into products and services that resonate with users, enhancing their experience and satisfaction. I always strive to see problems from the users' perspective, ensuring solutions are not only innovative but also user-centric.
+
+Empathy also plays a critical role in conflict resolution and effective communication. By recognizing and addressing the concerns of others, I can navigate challenging situations with tact and diplomacy. This ensures that all voices are considered in decision-making processes, leading to more inclusive and well-rounded outcomes.
+
+In the past, usually after a product launch. An announcement email goes out to the company informing them of the launch. Along with the email I like to include mentions of all the unsung heroes in the product development process such as devs, design, marketing, and product. 
