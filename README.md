@@ -237,9 +237,11 @@ One of the best pieces of advice I got when I was about to start my professional
 
 I was a little bit confused by that because to me it was a no-brainer that of course, you have to do the work. He reaffirmed that even though it's simple advice, most people will always try to do the least amount.
 
-Which is by firsthand experience very true. And it's not that people want to do the least amount for the most efficient results either. It's that they want to do the least amount with the least amount of outcome that is produced from their work.
+Which is by firsthand experience very true. And it's not that people want to do the least amount for the most efficient results either. It's that they settle for the least amount of outcome that is produced from their least amount of work. That's not me.
 
-So for me, it's incredibly easy do to the work. I know what it's like to work a fairly physical job in a hot, sweaty, and high-stress environment. In the corporate world, I get to do a job that I love (product management of course), from the comfort of my chair and thanks to the digital age that we live in from the comfort of my own home. When there are days that I feel like complaining or being negative - I simply think back on my first job in the kitchen. When those memories come flushing back it reminds me how if privileged I am to be where I'm at in life and that the work I do now is easy. All I have to do is start and get it done.
+I can't settle for less - I take pride in my work and at the end of the day I want to make sure that I give it my all. Regardless of the outcome, I want to be able to say that at least worked hard for it.
+
+So for me, it's incredibly easy do to the work. I know what it's like to work a fairly physical job in a hot, sweaty, and high-stress environment. In the corporate world, I get to do a job that I love (product management of course), from the comfort of my chair and thanks to the digital age that we live in from the comfort of my own home. When there are days that I feel like complaining or being negative - I simply think back on my first job in the kitchen. When those memories come flushing back it reminds me how of privileged I am to be where I'm at in life and that the work I do now is easy. All I have to do is start and get it done.
 
 Don't get me wrong, while I consider myself to be a hard worker, I don't want to push myself to the point of burnout/exhaustion. 
 
