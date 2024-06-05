@@ -20,7 +20,7 @@ You can also check out my [Second Brain of Product Thinking](https://github.com/
 11. [Reasons to hire me - Market Research](#11-reasons-to-hire-me---market-research)
 12. [Reasons to hire me - Communication](#12-reasons-to-hire-me---communication)
 13. [Reasons to hire me - Empathy](#13-reasons-to-hire-me---empathy)
-14. [Reasons to hire me - Hard Worker](#14-reasons-to-hire-me---hardworker)
+14. [Reasons to hire me - Hard Worker](#14-reasons-to-hire-me---hard-worker)
 
 ---
 
