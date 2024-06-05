@@ -20,6 +20,7 @@ You can also check out my [Second Brain of Product Thinking](https://github.com/
 11. [Reasons to hire me - Market Research](#11-reasons-to-hire-me---market-research)
 12. [Reasons to hire me - Communication](#12-reasons-to-hire-me---communication)
 13. [Reasons to hire me - Empathy](#13-reasons-to-hire-me---empathy)
+14. [Reasons to hire me - Hard Worker](#14-reasons-to-hire-me---hardworker)
 
 ---
 
@@ -225,3 +226,21 @@ In user research and customer interactions, empathy allow me to truly understand
 Empathy also plays a critical role in conflict resolution and effective communication. By recognizing and addressing the concerns of others, I can navigate challenging situations with tact and diplomacy. This ensures that all voices are considered in decision-making processes, leading to more inclusive and well-rounded outcomes.
 
 In the past, usually after a product launch. An announcement email goes out to the company informing them of the launch. Along with the email I like to include mentions of all the unsung heroes in the product development process such as devs, design, marketing, and product. 
+
+## 14. Reasons to hire me - Hard Worker
+
+This goes without saying, but I do consider myself to be a hard worker.
+
+I suppose when you're the son of a Chef, you do get the mindset of a hard work ethic instilled into your mind at a young age. Even more so when I was in high school I worked in a kitchen. I had to learn really fast to be a hard worker. Especially during lunch hours, nobody wants to be known as the lazy person who's holding everyone back and causing orders to be delayed. A sentiment that I feel to this day - I don't want to be the individual who is responsible for being unable to ship a product.
+
+One of the best pieces of advice I got when I was about to start my professional career right out of college was from a mentor of mine who told me, "to do the work".
+
+I was a little bit confused by that because to me it was a no-brainer that of course, you have to do the work. He reaffirmed that even though it's simple advice, most people will always try to do the least amount.
+
+Which is by firsthand experience very true. And it's not that people want to do the least amount for the most efficient results either. It's that they want to do the least amount with the least amount of outcome that is produced from their work.
+
+So for me, it's incredibly easy do to the work. I know what it's like to work a fairly physical job in a hot, sweaty, and high-stress environment. In the corporate world, I get to do a job that I love (product management of course), from the comfort of my chair and thanks to the digital age that we live in from the comfort of my own home. When there are days that I feel like complaining or being negative - I simply think back on my first job in the kitchen. When those memories come flushing back it reminds me how if privileged I am to be where I'm at in life and that the work I do now is easy. All I have to do is start and get it done.
+
+Don't get me wrong, while I consider myself to be a hard worker, I don't want to push myself to the point of burnout/exhaustion. 
+
+Yet when shit hits the fan and you need all hands on deck, you can best believe I'm one of the people who are all in.
